@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:01:15.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PYjtkj6QTsHgwECi38Ok" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:33:34.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6-c1SNfEPp9hMdoYqbuy" version="24.0.5" type="github">
   <diagram name="Page-1" id="3TTOF4GhuIMym_pUxHUX">
-    <mxGraphModel dx="875" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rx3z0cd8hEfnNGFrp5pK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-2" target="rx3z0cd8hEfnNGFrp5pK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rx3z0cd8hEfnNGFrp5pK-2" value="Docomento chega no Atendimento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-2" value="Documento chega no Atendimento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rx3z0cd8hEfnNGFrp5pK-3" value="AS chega com FO&lt;br&gt;Localizar através da Delivery&lt;div&gt;Gerada a partir da STO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
