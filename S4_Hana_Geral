@@ -1,29 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T14:12:31.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8WEz5vSmkMv-ZGGJ88po" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:01:15.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PYjtkj6QTsHgwECi38Ok" version="24.0.5" type="github">
   <diagram name="Page-1" id="3TTOF4GhuIMym_pUxHUX">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MVzthnbAKLkL7CwEq-GP-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-2" target="rx3z0cd8hEfnNGFrp5pK-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MVzthnbAKLkL7CwEq-GP-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="55" width="80" height="80" as="geometry" />
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-2" value="Docomento chega no Atendimento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVzthnbAKLkL7CwEq-GP-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MVzthnbAKLkL7CwEq-GP-1" target="MVzthnbAKLkL7CwEq-GP-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="300" as="sourcePoint" />
-            <mxPoint x="450" y="250" as="targetPoint" />
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-3" value="AS chega com FO&lt;br&gt;Localizar através da Delivery&lt;div&gt;Gerada a partir da STO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-4" value="Revenda chega com FO&lt;br&gt;Localizar através da delivery&lt;div&gt;Gerada a partir da OV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-5" value="CDD chega com FO&lt;br&gt;Localizar através da delivery&lt;div&gt;Gerada a partir da STO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#008000;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-8" target="rx3z0cd8hEfnNGFrp5pK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#008000;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-8" target="rx3z0cd8hEfnNGFrp5pK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#008000;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-8" target="rx3z0cd8hEfnNGFrp5pK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-8" target="rx3z0cd8hEfnNGFrp5pK-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-8" target="rx3z0cd8hEfnNGFrp5pK-27">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="230" />
+              <mxPoint x="220" y="190" />
+              <mxPoint x="120" y="190" />
+              <mxPoint x="120" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="[PPT59]" link="https://www.myworkday.com/abinbev/learning/course/45e65f1729e91000fd518106e8770000?type=9882927d138b100019b928e75843018d" linkTarget="_blank" id="bP-fVT7UOFlWqaVko7OK-1">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="255" y="80" width="55" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="rx3z0cd8hEfnNGFrp5pK-25" target="rx3z0cd8hEfnNGFrp5pK-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="190" />
+              <mxPoint x="120" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-8" value="Carregamento?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-13" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="40" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-26" value="Descarga PA&lt;br&gt;Localizar através da NF e FO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-27" value="PBR2&lt;br&gt;Localizar através da NF&lt;br&gt;AS nota própria&lt;br&gt;Revenda nota deles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-28" value="Devolução&lt;br&gt;Localizar através da NF + RDPA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rx3z0cd8hEfnNGFrp5pK-25" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="182.5" width="40" height="17.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
