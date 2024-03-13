@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T13:34:48.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HsmLaSgbgCgDoShcdUHt" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T13:40:27.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="X4qxs6NZ0-7tQlYp5z7H" version="24.0.5" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
     <mxGraphModel dx="778" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,14 +195,20 @@
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-110" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="346" y="857.5" width="21" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-113" target="aOmEqhJqzcy8wnbz2JpO-117">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-113" target="aOmEqhJqzcy8wnbz2JpO-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-113" value="Esperar 5 min" style="shape=or;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="757.25" y="836.5" width="78.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-117" value="Enviar para o armazém" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-117" value="Enviar para o Armazém" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="922" y="594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-121" target="aOmEqhJqzcy8wnbz2JpO-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-121" value="Verificar se possui &lt;a href=&quot;https://anheuserbuschinbev-my.sharepoint.com/:x:/r/personal/99821156_ambev_com_br/_layouts/15/doc2.aspx?sourcedoc=%7Bd540b165-c951-422d-8da9-9b79c941bcb3%7D&amp;amp;action=default&quot;&gt;Alinhamento&lt;/a&gt;.&lt;br&gt;Caso tenha, sinalizar ao Armazém" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="922" y="833" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
