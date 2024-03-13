@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T13:40:27.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="X4qxs6NZ0-7tQlYp5z7H" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T13:52:46.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="byQzJoDDYMudsZFZeQnS" version="24.0.5" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
-    <mxGraphModel dx="778" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
             <mxPoint x="501" y="624" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-52" value="&lt;a href=&quot;data:page/id,JQofYEXU-NoQVEOPvFRB&quot;&gt;Egates?&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-52" value="&lt;a href=&quot;https://egates.ambev.com.br/Movimentacoes/atendimentoEgates&quot;&gt;Egates?&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="584" width="109" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-54" target="aOmEqhJqzcy8wnbz2JpO-74">
@@ -152,7 +152,7 @@
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-76" target="aOmEqhJqzcy8wnbz2JpO-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-76" value="Realizar Entrada Manual" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-76" value="Realizar Entrada Manual&lt;br&gt;&lt;a href=&quot;https://www.myworkday.com/abinbev/learning/course/d115937921451001034cfec96b960001?record=7cd7e49422c810011a0aaa4b39510000&amp;amp;type=9882927d138b100019b928e75843018d&quot;&gt;[LOG35]&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="736.5" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aOmEqhJqzcy8wnbz2JpO-74" target="aOmEqhJqzcy8wnbz2JpO-95">
