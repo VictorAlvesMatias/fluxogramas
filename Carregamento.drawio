@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:17:51.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8ATOvWWqpXsh5GEBv6f1" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T14:28:42.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BGa2DktvyNKxngyu13l9" version="24.0.5" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
     <mxGraphModel dx="1313" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -9,39 +9,6 @@
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-2" value="Entrada de carregamento - Atendimento&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-124">
           <mxGeometry width="400" height="59.31" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-13" value="" style="group;shadow=0;" vertex="1" connectable="0" parent="aOmEqhJqzcy8wnbz2JpO-124">
-          <mxGeometry x="805" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-3" value="LEGENDA" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=13;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="10" width="70" height="21.336000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="10" y="39.23301920341394" width="19.711948790896162" height="20.03230203888099" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-5" value="Transações / Aplicativos" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="35.71" y="38.58117022285443" width="94.29" height="21.336000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="134.44444444444443" y="42.433143669985775" width="13.632053105737317" height="13.632053105737317" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;gradientColor=#ea6b66;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="134.44444444444443" y="13.488904694167848" width="13.632053105737317" height="13.632053105737317" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-8" value="Abas" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="153.11111111111111" y="9.636367946894259" width="35.55555555555556" height="21.337126600284495" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-9" value="Botões" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="153.11111111111111" y="38.580606922712185" width="35.55555555555556" height="21.337126600284495" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-11" value="SAP S4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="188.67" y="11.982931247036507" width="41.33" height="16.644" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-14" value="SAP TM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="188.67" y="40.92717022285443" width="41.33" height="16.644" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=0;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-13">
-          <mxGeometry x="-18" width="258" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aOmEqhJqzcy8wnbz2JpO-124" source="aOmEqhJqzcy8wnbz2JpO-15" target="aOmEqhJqzcy8wnbz2JpO-17">
           <mxGeometry relative="1" as="geometry" />
