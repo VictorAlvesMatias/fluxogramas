@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T17:20:22.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9MVm0F4cj45hkvphAJCa" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:22:07.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oV8xterwG0JAcvfMZlnp" version="24.0.5" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
     <mxGraphModel dx="913" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             <mxPoint x="686.4999999999998" y="439" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-119" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="aOmEqhJqzcy8wnbz2JpO-124" source="aOmEqhJqzcy8wnbz2JpO-59" target="aOmEqhJqzcy8wnbz2JpO-117" edge="1">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-119" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="aOmEqhJqzcy8wnbz2JpO-124" source="aOmEqhJqzcy8wnbz2JpO-59" target="aOmEqhJqzcy8wnbz2JpO-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-59" value="&lt;a href=&quot;https://trackandtrace.com.br/core/monitoring/panel&quot;&gt;Espelhamento?&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="aOmEqhJqzcy8wnbz2JpO-124" vertex="1">
@@ -156,14 +156,16 @@
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-113" value="Esperar 5 min" style="shape=or;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="aOmEqhJqzcy8wnbz2JpO-124" vertex="1">
           <mxGeometry x="757.25" y="651.5" width="78.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-117" value="Enviar para o Armazém" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="aOmEqhJqzcy8wnbz2JpO-124" vertex="1">
-          <mxGeometry x="922" y="409" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="aOmEqhJqzcy8wnbz2JpO-124" source="aOmEqhJqzcy8wnbz2JpO-121" target="aOmEqhJqzcy8wnbz2JpO-117" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="aOmEqhJqzcy8wnbz2JpO-124" source="aOmEqhJqzcy8wnbz2JpO-121" target="WNULB9PrPMmiZ3--5Gsn-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="982.0000000000002" y="381" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-121" value="Verificar se possui &lt;a href=&quot;https://anheuserbuschinbev-my.sharepoint.com/:x:/r/personal/99821156_ambev_com_br/_layouts/15/doc2.aspx?sourcedoc=%7Bd540b165-c951-422d-8da9-9b79c941bcb3%7D&amp;amp;action=default&quot;&gt;Alinhamento&lt;/a&gt;.&lt;br&gt;Caso tenha, sinalizar ao Armazém" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="aOmEqhJqzcy8wnbz2JpO-124" vertex="1">
-          <mxGeometry x="922" y="648" width="120" height="60" as="geometry" />
+          <mxGeometry x="922" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WNULB9PrPMmiZ3--5Gsn-8" value="Enviar para o Armazém" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=11;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-124">
+          <mxGeometry x="922" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
