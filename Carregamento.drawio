@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T06:39:53.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PAGxoVxUrXWuLT1WXqmO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T06:52:45.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="toOnxTxSVEw_O2bwBS-t" version="24.0.7" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
-    <mxGraphModel dx="1744" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
             <mxPoint x="852" y="73" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aOmEqhJqzcy8wnbz2JpO-76" value="Realizar Entrada Manual&lt;br&gt;&lt;a href=&quot;https://www.myworkday.com/abinbev/learning/course/d115937921451001034cfec96b960001?record=7cd7e49422c810011a0aaa4b39510000&amp;amp;type=9882927d138b100019b928e75843018d&quot;&gt;[LOG35]&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="aOmEqhJqzcy8wnbz2JpO-76" value="Realizar Entrada Manual&lt;br&gt;&lt;a href=&quot;https://www.myworkday.com/abinbev/learning/course/d115937921451001034cfec96b960001?record=7cd7e49422c810011a0aaa4b39510000&amp;amp;type=9882927d138b100019b928e75843018d&quot;&gt;[LOG35]&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.myworkday.com/abinbev/learning/course/fcd0fd75a26610010342241d6f330000/lesson/d997d903489a1001f470061e09f50002?record=5b787190088810004d4c2b44a86f0000&amp;amp;type=9882927d138b100019b928e75843018d&quot;&gt;[LOG52]&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="732" y="43" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aOmEqhJqzcy8wnbz2JpO-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="aOmEqhJqzcy8wnbz2JpO-99" target="aOmEqhJqzcy8wnbz2JpO-101" edge="1">
