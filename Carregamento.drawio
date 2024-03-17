@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T06:09:31.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8jW-prYeSgseafG9MQE6" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T06:11:52.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wVGE1m4PMBBJFw4BccrZ" version="24.0.7" type="github">
   <diagram name="Page-1" id="JQofYEXU-NoQVEOPvFRB">
-    <mxGraphModel dx="1878" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="jsbDycam533fCuaFfpvH-114" value="Pedir para o motorista sair do raio e TP enviar outro motorista, se possível" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-124">
           <mxGeometry x="180" y="769" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jsbDycam533fCuaFfpvH-119" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="aOmEqhJqzcy8wnbz2JpO-124">
+          <mxGeometry x="529" y="793.5" width="21" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
