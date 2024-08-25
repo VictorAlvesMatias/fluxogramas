@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2035" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="wK_h_3cRcjR1TYW6CAOI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-8" target="wK_h_3cRcjR1TYW6CAOI-9">
+        <mxCell id="wK_h_3cRcjR1TYW6CAOI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-108" target="wK_h_3cRcjR1TYW6CAOI-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184.00000000000136" y="29.999999999999943" as="targetPoint" />
-            <mxPoint x="144" y="29.999999999999943" as="sourcePoint" />
+            <mxPoint x="144" y="30" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wK_h_3cRcjR1TYW6CAOI-8" value="Pedido é criado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-9" target="wK_h_3cRcjR1TYW6CAOI-11">
           <mxGeometry relative="1" as="geometry" />
@@ -19,6 +16,16 @@
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-9" target="wK_h_3cRcjR1TYW6CAOI-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="-30.000000000000057" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wK_h_3cRcjR1TYW6CAOI-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" />
+              <mxPoint x="330" y="-84" />
+              <mxPoint x="460" y="-84" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-9" value="Pedido otimiza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -296,6 +303,9 @@
         </mxCell>
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-106" value="Fim Daytona" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="184" y="-450" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wK_h_3cRcjR1TYW6CAOI-108" value="&lt;div&gt;Pedido é criado&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="24" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
