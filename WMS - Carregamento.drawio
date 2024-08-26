@@ -171,7 +171,7 @@
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-61" target="wK_h_3cRcjR1TYW6CAOI-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wK_h_3cRcjR1TYW6CAOI-61" value="Segue para portaria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wK_h_3cRcjR1TYW6CAOI-61" value="`Motorista segue para portaria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="-222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-52" target="wK_h_3cRcjR1TYW6CAOI-55">
@@ -426,7 +426,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wK_h_3cRcjR1TYW6CAOI-161" value="Atendimento verifica NFs, CTe e VP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wK_h_3cRcjR1TYW6CAOI-161" value="Atendimento verifica NFs, CTe e VP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1141" y="-1059" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wK_h_3cRcjR1TYW6CAOI-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wK_h_3cRcjR1TYW6CAOI-162" target="wK_h_3cRcjR1TYW6CAOI-163">
